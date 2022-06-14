@@ -29,4 +29,4 @@ products:
     publish: {}
 product-defaults:
   publish:
-    group-id: com.palantir.godel-refreshables-plugin
+    group-id: com.tabboud.godel-refreshables-plugin
